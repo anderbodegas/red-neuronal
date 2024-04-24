@@ -1,7 +1,7 @@
 import numpy as np
 
 from funciones import diccionarioFunciones
-from Capa import Capa
+from capa import Capa
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 
