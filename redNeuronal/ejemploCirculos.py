@@ -12,7 +12,7 @@ activación.
 import numpy as np
 import matplotlib.pyplot as plt
 
-from RedNeuronal import RedNeuronal
+from redNeuronal import RedNeuronal
 from sklearn.datasets import make_circles
 from IPython.display import clear_output
 
