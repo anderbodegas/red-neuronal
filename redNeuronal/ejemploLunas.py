@@ -11,7 +11,7 @@ almacena los valores de entrada, así que no tiene función de activación.
 import numpy as np
 import matplotlib.pyplot as plt
 
-from RedNeuronal import RedNeuronal
+from redNeuronal import RedNeuronal
 from sklearn.datasets import make_moons
 from IPython.display import clear_output
 
